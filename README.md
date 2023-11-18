@@ -7,7 +7,7 @@
 ```javascript
 const D = {
   pronouns: "T-20 Komsomolets" | "☺",
-  code: [Python, Java],
+  code: [Python, Java,Lua],
   tools: [React,Node]
 }
 ```
