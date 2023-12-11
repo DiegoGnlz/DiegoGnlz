@@ -1,8 +1,8 @@
-<h2> Hi, I'm Diego! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Diego!</h2>
 <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
-<p><em><a href=""></a></br><a href=""></a><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250"> 
+<p><em><a href=""></a></br><a href=""></a> 
 </em></p>
-<img src="https://media.giphy.com/media/XbszY7VGJQ2gQcGAsW/giphy.gif" width="50"> A little more about me...  
+ A little more about me...  
 
 ```javascript
 const D = {
