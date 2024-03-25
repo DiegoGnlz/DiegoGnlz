@@ -1,18 +1,30 @@
-<h2> Hi, I'm Diego!</h2>
-<img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
-<p><em><a href=""></a></br><a href=""></a> 
-</em></p>
- A little more about me...  
+<!--Banner-->
+![Kiran1689 Banner Image](https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png)
 
-```javascript
-const D = {
-  pronouns: "T-20 Komsomolets" | "☺",
-  code: [Python, Java,Lua],
-  tools: [React,Node]
-}
-```
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-<img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="560"> <em>
-<b><b></b></em>
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Diego! 
+*(Developer / Programmer)*
+<br /> 
+
+<!--Start Intro-->               
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, REST API and Data Visualization. </p>
+
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- ❤ Contributing to Open Source.
+<!--End Intro-->
 
 ---
+<br />
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,react,nodejs,mongo,git,vscode,docker,postman,linux&perline=10"  />
+</p>
+<br />
