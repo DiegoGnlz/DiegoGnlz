@@ -12,11 +12,11 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, REST API and Data Visualization. </p>
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js and Data Visualization. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- ❤ Contributing to Open Source.
+- ❤ Contributing to Open Source FiveM.
 <!--End Intro-->
 
 ---
@@ -25,6 +25,6 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,react,nodejs,git,postman,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,react,nodejs,git,postman,Lua&perline=10"  />
 </p>
 <br />
