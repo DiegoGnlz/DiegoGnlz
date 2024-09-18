@@ -25,6 +25,8 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,react,nodejs,git,next,discord,postman,blender,c#&perline=20"  />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cs,docker,nodejs,next,arduino,bots,dotnet,firebase,lua,matlab,mysql,npm,react,tailwind,ts,vercel,vscode,vite," />
+  </a>
 </p>
 <br />
