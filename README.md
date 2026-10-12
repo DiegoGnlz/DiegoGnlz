@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wtssv3r4n2gmhqnqo4mml55oa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wtssv3r4n2gmhqnqo4mml55oa&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🌐 Mi Portafolio Web
 
