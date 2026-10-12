@@ -1,113 +1,186 @@
-# 👋 Hi, I'm Diego Herbert
+ <!-- HERO -->
+<div align="center">
 
-### Full Stack Backend Engineer · TypeScript · NestJS · SQL · React
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,50:172554,100:2563EB&text=DIEGO%20HERBERT&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=INGENIERO%20DE%20SOFTWARE%20%2F%2F%20M%C3%89XICO&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
 
-**Building scalable web applications, intelligent systems, and real-world solutions from Mexico 🇲🇽**
+<br/>
 
-<p align="center">
-  <a href="https://herzago.dev">
-    <img src="https://img.shields.io/badge/PORTFOLIO-herzago.dev-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:diegogonzalez@softwone.com">
-    <img src="https://img.shields.io/badge/CONTACT-EMAIL-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/diegognlz">
-    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-18181B?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="https://herzago.dev">
+<img src="https://img.shields.io/badge/↗_HERZAGO.DEV-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:diegogonzalez@softwone.com">
+<img src="https://img.shields.io/badge/CONTACTO-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/diegognlz">
+<img src="https://img.shields.io/github/followers/diegognlz?style=for-the-badge&logo=github&label=SEGUIDORES&color=18181B" />
+</a>
+
+<br/><br/>
+
+**DESARROLLO SOLUCIONES DIGITALES QUE RESUELVEN PROBLEMAS REALES.**
+
+*Arquitectura backend · Desarrollo full stack · IoT · Automatización · Inteligencia artificial*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=diegognlz&style=flat-square&color=2563EB&label=VISITAS+AL+PERFIL" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## `01` — SOBRE MÍ
 
 ```typescript
 const diego = {
-  role: "Full Stack Backend Engineer",
-  location: "Tampico, Mexico 🇲🇽",
-  company: "TYT SOFTWARE DE MÉXICO",
-  focus: [
-    "Backend Architecture",
-    "Full Stack Development",
-    "Database Engineering",
-    "IoT & RFID Integration",
-    "AI Automation"
-  ],
-  currentlyLearning: "Modern frameworks & system architecture",
-  askMeAbout: ["React", "NestJS", "TypeScript", "SQL", "RFID", "MQTT"],
-  philosophy: "Build solutions that solve real problems."
+  nombre: "Diego Herbert",
+  alias: "HerZago",
+  ubicacion: "Tampico, México 🇲🇽",
+  empresa: "TYT SOFTWARE DE MÉXICO",
+  especialidad: "Desarrollo Full Stack y Backend",
+  tecnologias: ["TypeScript", "NestJS", "React", "SQL"],
+  intereses: ["Arquitectura de software", "RFID", "MQTT", "IA"],
+  filosofia: "Entender. Diseñar. Construir. Mejorar."
 };
 ```
 
-## ⚡ Tech Stack
+Desarrollador de software enfocado en conectar la ingeniería con soluciones del mundo real. Trabajo con sistemas empresariales, APIs, bases de datos, plataformas web e integraciones de hardware.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,nextjs,python,mysql,mongodb,docker,git,github,linux&perline=6" />
-</p>
+Me gusta construir tecnología funcional, escalable y diseñada para resolver necesidades concretas.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white" />
-  <img src="https://img.shields.io/badge/RFID-Zebra%20Technologies-FF6600?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Automation-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-Engineering-2563EB?style=flat-square" />
-</p>
+<div align="center">
 
-## 🚀 Featured Projects
+| `BACKEND` | `FRONTEND` | `INFRAESTRUCTURA` |
+|:---:|:---:|:---:|
+| APIs y arquitectura | Interfaces y experiencia de usuario | Bases de datos y despliegues |
+| Lógica de negocio | Aplicaciones web | IoT e integraciones |
+
+</div>
+
+## `02` — MI ARSENAL TECNOLÓGICO
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,react,nextjs,python&theme=dark" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,linux,git,github&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MariaDB-Bases_de_datos-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/MQTT-Internet_de_las_cosas-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ZEBRA-Tecnología_RFID-FF6600?style=for-the-badge" />
+<img src="https://img.shields.io/badge/n8n-Automatización-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
+</div>
+
+## `03` — PROYECTOS DESTACADOS
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🎟️ Boletus</h3>
-      <p>Event ticketing platform focused on digital tickets, QR validation, event management, and analytics.</p>
-      <p><strong>Stack:</strong> TypeScript · React · SQL · Payments</p>
-      <a href="https://www.boletus.mx/">Explore Boletus →</a>
-    </td>
-    <td width="50%">
-      <h3>🎉 WeekendMX</h3>
-      <p>Digital platform for discovering events, concerts, entertainment, and experiences.</p>
-      <p><strong>Stack:</strong> Next.js · React · Supabase</p>
-      <a href="https://weekendmx.com/">Explore WeekendMX →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>💼 HerZago.dev</h3>
-      <p>My personal developer brand, portfolio, and digital solutions hub.</p>
-      <p><strong>Focus:</strong> Web Development · UI/UX</p>
-      <a href="https://herzago.dev/">Visit Portfolio →</a>
-    </td>
-    <td width="50%">
-      <h3>⚙️ Enterprise Systems</h3>
-      <p>Business applications, API integrations, inventory systems, and RFID solutions.</p>
-      <p><strong>Stack:</strong> NestJS · MySQL · MQTT · Zebra</p>
-      <p>Private repositories and professional projects.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://www.boletus.mx/">
+<img src="https://img.shields.io/badge/BOLETUS-Tecnología_para_eventos-F97316?style=for-the-badge" />
+</a>
+
+### 🎟️ Plataforma de boletaje
+
+Plataforma digital para la venta de boletos, validación de accesos mediante códigos QR, administración de eventos, pagos y analítica.
+
+`PLATAFORMA WEB` `BOLETAJE` `PAGOS`
+
+**[EXPLORAR PROYECTO ↗](https://www.boletus.mx/)**
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://weekendmx.com/">
+<img src="https://img.shields.io/badge/WEEKENDMX-Experiencias_digitales-2563EB?style=for-the-badge" />
+</a>
+
+### 🎫 Eventos y entretenimiento
+
+Plataforma digital para descubrir conciertos, eventos, espectáculos y nuevas experiencias.
+
+`NEXT.JS` `DESARROLLO WEB` `SEO`
+
+**[EXPLORAR PROYECTO ↗](https://weekendmx.com/)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://herzago.dev/">
+<img src="https://img.shields.io/badge/HERZAGO.DEV-Marca_personal-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+### 💻 Ingeniería y desarrollo
+
+Mi marca personal, portafolio profesional y espacio para presentar soluciones digitales.
+
+`DESARROLLO` `DISEÑO` `INGENIERÍA`
+
+**[VISITAR PORTAFOLIO ↗](https://herzago.dev/)**
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/EMPRESARIAL-Sistemas_e_integraciones-16A34A?style=for-the-badge" />
+
+### ⚙️ Más allá del navegador
+
+Sistemas empresariales, inventarios, lectores RFID, integración de hardware y comunicación en tiempo real.
+
+`NESTJS` `SQL` `MQTT` `RFID`
+
+**PROYECTOS PROFESIONALES PRIVADOS**
+
+</td>
+</tr>
 </table>
 
-## 📊 GitHub Analytics
+## `04` — ESTADÍSTICAS DE GITHUB
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=diegognlz&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegognlz&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=diegognlz&hide_border=true&theme=transparent" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=diegognlz&show_icons=true&hide_border=true&bg_color=09090B&title_color=60A5FA&icon_color=3B82F6&text_color=E4E4E7&rank_icon=github&locale=es" />
 
-## 🎧 Currently Listening To
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegognlz&layout=compact&hide_border=true&bg_color=09090B&title_color=60A5FA&text_color=E4E4E7&langs_count=8&locale=es" />
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wtssv3r4n2gmhqnqo4mml55oa&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&profanity=false&mode=light&bar_color=2563eb&bar_color_cover=false" width="80%" />
-  </a>
-</p>
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=diegognlz&hide_border=true&background=09090B&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=E4E4E7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=71717A&locale=es" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diegognlz&bg_color=09090B&color=60A5FA&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+## `05` — LO QUE ESTOY ESCUCHANDO
+
+<div align="center">
+
+<a href="https://github.com/kittinan/spotify-github-profile">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wtssv3r4n2gmhqnqo4mml55oa&cover_image=true&theme=novatorem&show_offline=false&background_color=09090b&interchange=false&profanity=false&mode=dark&bar_color=3b82f6&bar_color_cover=false" width="75%" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <strong>💡 Engineering ideas into reality.</strong>
-  <br/>
-  <sub>Designed & built by Diego Herbert · Mexico 🇲🇽</sub>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,100:09090B&section=footer" width="100%" />
+
+### `MENOS ROLLO. MÁS CÓDIGO.`
+
+**DIEGO HERBERT** · INGENIERÍA DE SOFTWARE · MÉXICO 🇲🇽
+
+<a href="https://herzago.dev">HERZAGO.DEV ↗</a>
+
+</div>
