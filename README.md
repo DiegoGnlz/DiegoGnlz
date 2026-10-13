@@ -20,78 +20,7 @@
 
 Construyo sistemas que conectan software con el mundo real: plataformas de boletaje con pagos y validación por QR, APIs empresariales y soluciones con hardware (RFID, MQTT) en tiempo real.
 
-## `02` · Stack en órbita
-
-<div align="center">
-<img src="assets/stack-orbit.svg" width="70%" alt="Órbita animada de tecnologías" />
-</div>
-
-
-## `03` · Proyectos destacados
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎟️ [Boletus](https://www.boletus.mx/)
-Venta de boletos, validación de accesos por QR, administración de eventos, pagos y analítica.
-
-`NestJS` `React` `MySQL` `Pagos` `QR`
-
-**[Explorar proyecto ↗](https://www.boletus.mx/)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🎫 [WeekendMX](https://weekendmx.com/)
-Descubre conciertos, eventos y espectáculos, optimizado para búsqueda orgánica.
-
-`Next.js` `SEO` `Desarrollo web`
-
-**[Explorar proyecto ↗](https://weekendmx.com/)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 [herzago.dev](https://herzago.dev/)
-Portafolio y marca personal: soluciones digitales, casos y proyectos.
-
-`Diseño` `Frontend` `Ingeniería`
-
-**[Visitar portafolio ↗](https://herzago.dev/)**
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Sistemas empresariales
-Inventarios, lectores RFID, integración de hardware y comunicación en tiempo real.
-
-`NestJS` `SQL` `MQTT` `RFID`
-
-*Proyectos profesionales privados*
-
-</td>
-</tr>
-</table>
-
-## `04` · Actividad
-
-<div align="center">
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=diegognlz&show_icons=true&hide_border=true&bg_color=09090B&title_color=60A5FA&icon_color=3B82F6&text_color=E4E4E7&rank_icon=github&locale=es" alt="Estadísticas de GitHub" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegognlz&layout=compact&hide_border=true&bg_color=09090B&title_color=60A5FA&text_color=E4E4E7&langs_count=8&locale=es" alt="Lenguajes más usados" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=diegognlz&hide_border=true&background=09090B&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=E4E4E7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=71717A&locale=es" alt="Racha de contribuciones" />
-
-</div>
-
-## `05` · Escuchando ahora
+## `02` · Escuchando ahora
 
 <div align="center">
 <a href="https://github.com/kittinan/spotify-github-profile">
