@@ -26,13 +26,8 @@ Construyo sistemas que conectan software con el mundo real: plataformas de bolet
 <img src="assets/stack-orbit.svg" width="70%" alt="Órbita animada de tecnologías" />
 </div>
 
-## `03` · Cómo fluyen mis sistemas
 
-<div align="center">
-<img src="assets/flujos.svg" width="100%" alt="Flujos animados de boletaje e IoT" />
-</div>
-
-## `04` · Proyectos destacados
+## `03` · Proyectos destacados
 
 <table>
 <tr>
@@ -81,22 +76,9 @@ Inventarios, lectores RFID, integración de hardware y comunicación en tiempo r
 </tr>
 </table>
 
-## `05` · Demo en movimiento
-
-<!--
-  VIDEO: edita este README en github.com, arrastra tu .mp4 (menos de 10 MB) al editor
-  y GitHub pegará una URL https://github.com/user-attachments/assets/... en una línea sola.
-  Esa línea se reproduce como video dentro del perfil. Borra este comentario cuando lo pegues.
-
-  GIF: sube tu .gif a la carpeta assets/ y usa:
-  <img src="assets/demo.gif" width="80%" alt="Demo de Boletus" />
--->
-
-## `06` · Actividad
+## `04` · Actividad
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/diegognlz/diegognlz/output/github-snake-dark.svg" width="100%" alt="Serpiente comiéndose mis contribuciones" />
 
 <br/><br/>
 
@@ -109,7 +91,7 @@ Inventarios, lectores RFID, integración de hardware y comunicación en tiempo r
 
 </div>
 
-## `07` · Escuchando ahora
+## `05` · Escuchando ahora
 
 <div align="center">
 <a href="https://github.com/kittinan/spotify-github-profile">
@@ -123,6 +105,6 @@ Inventarios, lectores RFID, integración de hardware y comunicación en tiempo r
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,100:09090B&section=footer" width="100%" alt="" />
 
-**DIEGO HERBERT** · Ingeniería de software · México 🇲🇽 · [herzago.dev ↗](https://herzago.dev)
+**DIEGO HERBERT** · Ingeniería de software · México 🇲🇽 ·
 
 </div>
